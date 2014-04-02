@@ -1,3 +1,4 @@
+Autor: @alejandro 
 frontend-curso
 ==============
 
